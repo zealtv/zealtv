@@ -22,7 +22,7 @@ A family of lightweight, filesystem-based tools for coordinating human and AI wo
 - **[nestlings 🪺](https://github.com/zealtv/nestlings)** *Inbox* — Receive, process, and hand off work between agents.
 - **[loom 🪡](https://github.com/zealtv/loom)** *Tasks* — Organise and decompose work into threads and stitches.
 - **[glean 🔮](https://github.com/zealtv/glean)** *Memory (short)* — Distil experience into small, reusable findings.
-- **[lore 🐉](https://github.com/zealtv/lore)** *Memory (Long)* — Preserve complete artifacts and reference material.
+- **[lore 🐉](https://github.com/zealtv/lore)** *Memory (long)* — Preserve complete artifacts and reference material.
 - **[groundhog 🦫](https://github.com/zealtv/groundhog)** *Scheduling* — Schedule recurring work using files and directories.
 - **[gremlin 👀](https://github.com/zealtv/gremlin)** — A low maintenance claw-like agent built from the tools above.
 
