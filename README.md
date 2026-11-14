@@ -19,17 +19,17 @@ Artist and creative technologist working across sound, moving image, interactive
 
 A family of lightweight, filesystem-based tools for coordinating human and AI work.
 
-- **[nestlings 🪺](https://github.com/zealtv/nestlings)** — *Inbox* Receive, process, and hand off work between agents.
-- **[loom 🪡](https://github.com/zealtv/loom)** — *Tasks* Organise and decompose work into threads and stitches.
-- **[glean 🔮](https://github.com/zealtv/glean)** — *Memory (short)* Distil experience into small, reusable findings.
-- **[lore 🐉](https://github.com/zealtv/lore)** — *Memory (Long)* Preserve complete artifacts and reference material.
-- **[groundhog 🦫](https://github.com/zealtv/groundhog)** — *Scheduling* Schedule recurring work using files and directories.
+- **[nestlings 🪺](https://github.com/zealtv/nestlings)** *Inbox* — Receive, process, and hand off work between agents.
+- **[loom 🪡](https://github.com/zealtv/loom)** *Tasks* — Organise and decompose work into threads and stitches.
+- **[glean 🔮](https://github.com/zealtv/glean)** *Memory (short)* — Distil experience into small, reusable findings.
+- **[lore 🐉](https://github.com/zealtv/lore)** *Memory (Long)* — Preserve complete artifacts and reference material.
+- **[groundhog 🦫](https://github.com/zealtv/groundhog)** *Scheduling* — Schedule recurring work using files and directories.
 - **[gremlin 👀](https://github.com/zealtv/gremlin)** — An low maintenance claw-like agent built from the tools above.
 
 
 ## Courses & resources
 
-- **[Composing with the M8](https://github.com/zealtv/m8-course)** — A fable-built, twelve-week course in sound design and composition with the Dirtywave M8 tracker.
+- **[Composing with the M8](https://github.com/zealtv/m8-course)** — A fable-built, twelve-week course in sound design and composition with the Dirtywave M8 tracker. [Source]().
 - **[Woovebox Resources](https://github.com/zealtv/woovebox)** — Reference material and a cheat sheet for the Woovebox synthesizer.
 - **[DIM3](https://github.com/zealtv/DIM3)** — Processing sketches and teaching examples from a 2014 Interactive Media course at RMIT.
 - **[Casiotone MT-400V Samples](https://github.com/zealtv/Casiotone-MT-400V-samples)** — Stereo multisamples of the Casio synthesizer.
