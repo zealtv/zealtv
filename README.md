@@ -6,7 +6,7 @@ Artist and creative technologist working across sound, moving image, interactive
 ## Music & audiovisual tools
 
 - **[bop 🐤](https://github.com/zealtv/bop)** — Friendly music-making modules for Pure Data Vanilla.
-- **[bopOS](https://github.com/zealtv/bopOS)** — Framework for large scale, Raspberry Pi-based, spatial audio.
+- **[bopOS](https://github.com/zealtv/bopOS)** — Framework for large scale, Raspberry Pi-based spatial audio.
 - **[VIZZable](https://github.com/zealtv/VIZZable-2)** — (Quite old) Modular video toolsfor  Ableton Live.
 - **[VIZZable 3](https://github.com/zealtv/VIZZable-3)** — An experimental redevelopment of VIZZable.
 - **[AXIS](https://github.com/zealtv/AXIS)** — A MIDI instrument built around a USB Guitar Hero controller.
@@ -29,7 +29,7 @@ A family of lightweight, filesystem-based tools for coordinating human and AI wo
 
 ## Courses & resources
 
-- **[Composing with the M8](https://zealtv.github.io/m8-course/)** — A fable-built, twelve-week course in sound design and composition with the Dirtywave M8 tracker. [Source](https://github.com/zealtv/m8-course).
+- **[Composing with the M8](https://github.com/zealtv/m8-course)** — A fable-built, twelve-week course in sound design and composition with the Dirtywave M8 tracker.
 - **[Woovebox Resources](https://github.com/zealtv/woovebox)** — Reference material and a cheat sheet for the Woovebox synthesizer.
 - **[DIM3](https://github.com/zealtv/DIM3)** — Processing sketches and teaching examples from a 2014 Interactive Media course at RMIT.
 - **[Casiotone MT-400V Samples](https://github.com/zealtv/Casiotone-MT-400V-samples)** — Stereo multisamples of the Casio synthesizer.
