@@ -19,12 +19,12 @@ Artist and creative technologist working across sound, moving image, interactive
 
 A family of lightweight, filesystem-based tools for coordinating human and AI work.
 
-- **[nestlings 🪺](https://github.com/zealtv/nestlings)** — (INBOX) Receive, process, and hand off work between agents.
-- **[loom 🪡](https://github.com/zealtv/loom)** — (TASKS) Organise and decompose work into threads and stitches.
-- **[glean 🔮](https://github.com/zealtv/glean)** — (MEMORY, SHORT) Distil experience into small, reusable findings.
-- **[lore 🐉](https://github.com/zealtv/lore)** — (MEMORY, LONG) Preserve complete artifacts and reference material.
-- **[groundhog 🦫](https://github.com/zealtv/groundhog)** — (SCHEDULING) Schedule recurring work using files and directories.
-- **[gremlin 👀](https://github.com/zealtv/gremlin)** — (ALL OF THE ABOVE) An low maintenance claw-like agent built from the tools above.
+- **[nestlings 🪺](https://github.com/zealtv/nestlings)** — *Inbox* Receive, process, and hand off work between agents.
+- **[loom 🪡](https://github.com/zealtv/loom)** — *Tasks* Organise and decompose work into threads and stitches.
+- **[glean 🔮](https://github.com/zealtv/glean)** — *Memory (short)* Distil experience into small, reusable findings.
+- **[lore 🐉](https://github.com/zealtv/lore)** — *Memory (Long)* Preserve complete artifacts and reference material.
+- **[groundhog 🦫](https://github.com/zealtv/groundhog)** — *Scheduling* Schedule recurring work using files and directories.
+- **[gremlin 👀](https://github.com/zealtv/gremlin)** — An low maintenance claw-like agent built from the tools above.
 
 
 ## Courses & resources
