@@ -24,6 +24,7 @@ A family of lightweight, filesystem-based tools for coordinating human and AI wo
 - **[glean 🔮](https://github.com/zealtv/glean)** *Memory (short)* — Distil experience into small, reusable findings.
 - **[lore 🐉](https://github.com/zealtv/lore)** *Memory (long)* — Preserve complete artifacts and reference material.
 - **[groundhog 🦫](https://github.com/zealtv/groundhog)** *Scheduling* — Schedule recurring work using files and directories.
+- **[moot 📣](https://github.com/zealtv/moot)** *Rooms* — Post and read messages in shared rooms of plain files.
 - **[gremlin 👀](https://github.com/zealtv/gremlin)** — A low maintenance claw-like agent built from the tools above.
 
 
