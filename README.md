@@ -5,6 +5,7 @@ Artist and creative technologist working across sound, moving image, interactive
 
 ## Music & audiovisual tools
 
+- **[qtable 🛰️](https://github.com/zealtv/qtable)** — An OSC sequencer laid out like a Session View: launch OSC messages from clips and scenes.
 - **[bop 🐤](https://github.com/zealtv/bop)** — Friendly music-making modules for Pure Data Vanilla.
 - **[bopOS](https://github.com/zealtv/bopOS)** — Framework for large scale, Raspberry Pi-based spatial audio.
 - **[VIZZable](https://github.com/zealtv/VIZZable-2)** — (Quite old) Modular video toolsfor  Ableton Live.
