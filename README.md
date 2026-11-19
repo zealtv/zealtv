@@ -27,7 +27,6 @@ A family of lightweight, filesystem-based tools for coordinating human and AI wo
 - **[moot 📣](https://github.com/zealtv/moot)** *Rooms* — Post and read messages in shared rooms of plain files.
 - **[gremlin 👀](https://github.com/zealtv/gremlin)** — A low maintenance claw-like agent built from the tools above.
 
-### Easy tools
 
 Terminal front ends for the tools above.
 
