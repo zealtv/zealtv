@@ -33,6 +33,7 @@ Terminal front ends for the tools above.
 
 - **[EasyLoom](https://github.com/zealtv/easyloom)** — A terminal viewer and controller for looms.
 - **[Easyhog](https://github.com/zealtv/easyhog)** — A terminal viewer and controller for groundhog instances.
+- **[EasyMoot](https://github.com/zealtv/easymoot)** — A terminal viewer and poster for moot rooms.
 
 
 ## Courses & resources
